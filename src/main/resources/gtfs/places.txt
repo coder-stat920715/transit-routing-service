@@ -1,0 +1,3 @@
+place_name,place_lat,place_lon
+Zolo Lakeview PG,17.4415,78.3482
+Domestic Departures Terminal,17.2403,78.4294

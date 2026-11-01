@@ -1,0 +1,5 @@
+route_id,route_short_name,route_long_name,route_type
+R116,116N/220K,Heritage Fresh - Koti Medical College,3
+R195,195KG,Nanakramguda - JNTU,3
+RAJ,AJ,Pushpak Airport Express,3
+R10H,10H,Kukatpally - Secunderabad,3

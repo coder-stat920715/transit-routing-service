@@ -1,0 +1,22 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: transit-routing-service
+  jackson:
+    serialization:
+      write-dates-as-timestamps: false
+    default-property-inclusion: non_null
+
+transit:
+  gtfs:
+    # "classpath:gtfs" (bundled mock data) or an absolute directory containing GTFS .txt files
+    location: classpath:gtfs
+  walking:
+    speed-mps: 1.33
+    detour-factor: 1.2
+    footpath-radius-meters: 300
+    min-transfer-seconds: 120
+  realtime:
+    enabled: false

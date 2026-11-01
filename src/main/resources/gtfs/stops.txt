@@ -1,0 +1,22 @@
+stop_id,stop_name,stop_lat,stop_lon
+HF,Heritage Fresh,17.4361,78.3482
+GXR,Gowlidoddy X Roads,17.4300,78.3440
+KJ,Khajaguda Junction,17.4235,78.3410
+NKG,Nanakramguda,17.4170,78.3400
+MDP,Mehdipatnam,17.3950,78.4400
+KMC,Koti Medical College,17.3850,78.4800
+FD,Financial District,17.4190,78.3470
+WJ,Wipro Junction,17.4215,78.3540
+TN,Telecom Nagar,17.4235,78.3600
+GS,Gachibowli Stadium,17.4250,78.3640
+GX,Gachibowli X Road,17.4260,78.3700
+HC,Hitec City,17.4435,78.3772
+JNTU,JNTU,17.4930,78.3910
+GAJ,Gachibowli,17.4260,78.37075
+APJ,Appa Junction,17.3850,78.3800
+ARM,Aramghar X Roads,17.3300,78.4000
+SHM,Shamshabad,17.2650,78.4250
+RGIA,Rajiv Gandhi International Airport (RGIA),17.2403,78.42045
+KKP,Kukatpally,17.4948,78.3996
+MSP,Moosapet,17.4640,78.4260
+SEC,Secunderabad,17.4399,78.5010
